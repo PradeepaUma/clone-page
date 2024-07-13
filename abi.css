@@ -1,0 +1,296 @@
+body{
+    margin-top: 0%;
+    padding: 0%;
+    margin: 0%;
+}
+
+
+.logo-container{
+padding-bottom: 2px;
+ display: flex; 
+justify-content: space-between; 
+align-items: center;
+padding-right: 10px;
+padding-bottom: 15PX;
+background-color: rgb(239, 238, 238);
+
+}
+
+.txt-button{
+  width: 150px;
+  height: 40px;
+  background-color: black;
+  color:rgb(196, 204, 204);
+  border-bottom-color: rgb(93, 244, 93);
+  border-bottom-width: 6px;
+  border-radius: 6px;
+ padding-top: 3px;
+  
+}
+.home-pg{
+  width: 100vw;
+  height: 10vh;
+  background-color:#21b15c;
+  display: flex;
+  flex-direction: row;
+ 
+ }
+ .home{
+  padding-right: 40px;
+  padding-left: 40px;
+  text-align: center;
+  align-items: center;
+  align-content: center;
+  font-weight: 500;
+  text-align: center;
+  
+ }
+ 
+ .about{
+  padding-right: 40px;
+  align-content: center;
+  font-weight: 500;
+
+  
+ }
+ .dining{
+  padding-right: 40px;
+  align-content: center;
+  font-weight: 500;
+
+  
+ }
+ .banquets{
+  padding-right: 40px;
+  align-content: center;
+  font-weight: 500;
+
+  
+ }
+ .photo{
+  padding-right: 40px;
+  align-content: center;
+  font-weight: 500;
+
+  
+ }
+ .tour{
+  padding-right: 40px;
+  align-content: center;
+  font-weight: 500;
+
+  
+ }
+ .contact{
+  padding-right: 40px;
+  align-content: center;
+  font-weight: 500;
+}
+
+a{
+  color: black;
+  text-decoration: none;
+  font-weight: 500;
+
+
+}
+a:hover{
+  transition: .9s;
+  color: #fff;
+
+}
+.date-container{
+  background-color: black;
+  color: #21b15c;
+  height: 70px;
+  /* padding-left: 390px; */
+  align-items: center;
+  align-content: center;
+  font-weight: 500;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.btn-1{
+  height: 40px;
+  width: 200px;
+
+ }
+ 
+ .btn0{
+  height: 50px;
+  width: 200px;
+  text-align: left;
+  padding-top: 0%;
+  display: flex;
+  align-items: flex-start;
+  text-align: left;
+  align-content: flex-start;
+  background-color: black;
+  border-color: #fff;
+  border-width: 2px;
+ }
+.btn4{
+  height: 50px;
+  width: 200px;
+}
+.btn-3{
+  height: 40px;
+  width: 200px;
+  text-align: left;
+  padding-top: 0%;
+  display: flex;
+  align-content: flex-start;
+  align-items: flex-start;
+  background-color: black;
+  border-color: #FFF;
+  border-width: 2px;
+}
+
+ .main-container2{
+  height: 240vh;
+  width: 200vh;
+  background-color: #E5EAEA;
+
+}
+.head-cont{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.header1{
+  align-items: center;
+  background-color: #21b15c;
+  border-radius: 8px;
+  text-align: center;
+  width: 600px;
+ 
+}
+.deals{
+  padding-left: 10px;
+  font-weight: 600;
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.pic-cont-main{
+  padding: 10px;
+ display: flex; 
+ flex-direction: row;
+ /* border: 2px solid #fff; */
+ 
+  
+  
+}
+.pic-cont1{
+  
+  width: 31vw;
+}
+.family{
+  padding-left: 10px;
+  font-weight: 500;
+  font-size: 20px;
+  border-bottom: 2px solid #c3c3c1;
+  padding-bottom: 10px;
+  width: 31vw;
+}
+.family1{
+  padding-left: 10px;
+  font-size: 20px;
+  border-bottom: 2px solid #c3c3c1;
+  padding-bottom: 10px;
+  width: 31vw;
+
+
+}
+.tick-img{
+  height:20px;
+  width: 20px; 
+
+  
+}
+.p-txt3{
+  padding: 10px;
+  display: flex; 
+  
+}
+.p-txt4{
+  border-bottom:2px solid #c3c3c1; 
+   /* padding-bottom: 10px;  */
+  width: 33vw;
+}
+.end{
+  border-bottom: 2px solid #c3c3c1;
+}
+
+.main-container3{
+  padding: 10px;
+  width: 45vw;
+  
+
+}
+.header2{
+  padding: 10px;
+}
+.txt{
+  width: 45vw;
+  
+
+  
+}
+.p-txt5{
+ 
+
+}
+.main-container4{
+ 
+  flex-direction: row;
+  align-content: flex-end;
+  align-items: flex-end;
+
+}
+.right{
+  
+  flex-direction: row;
+  
+
+}
+.main-container5{
+  height: 70vh;
+  width: 100vw;
+  background-color: #353938;
+  padding: 10px;
+}
+.txt5{
+  padding: 10PX;
+ 
+  color: #fff;
+}
+.pictures{
+  display: table-cell;
+   flex-direction: row;
+   justify-content: space-between;
+  padding-right: 30px;
+
+}
+.pic1{
+  padding-right:10px;
+  border: 2px solid #fff;
+  align-content: center;
+  border-radius: 4px;
+  justify-content: space-between;
+  padding-bottom: 10px;
+}
+
+.pic2{
+  padding-right:10px;
+  border: 2px solid #fff;
+  align-content: center;
+  border-radius: 4px;
+  justify-content: space-evenly;
+  padding-bottom: 10px;
+
+}
+
+
+
